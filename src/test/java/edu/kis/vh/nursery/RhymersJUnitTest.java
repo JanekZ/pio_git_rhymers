@@ -2,7 +2,7 @@ package edu.kis.vh.nursery;
 
 import org.junit.Assert;
 import org.junit.Test;
-
+// PROJEKT JEST POPRAWNY
 public class RhymersJUnitTest {
 
     @Test
